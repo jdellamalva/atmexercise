@@ -1,4 +1,4 @@
-# ATM Simulator
+# ATM Exercise
 
 This project is a simple ATM simulator built with React. It allows users to deposit money, withdraw money, and view their account balance.
 
